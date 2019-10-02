@@ -1,2 +1,2 @@
 D:\MySelf\MySelf
-<?php header ('Location:/index.html');>
+<?php header ('Location:/index.html');?>
